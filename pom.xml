@@ -13,7 +13,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>library-api</name>
     <description>Curso Udemy - Design de API's RestFul com Spring Boot, TDD e o novo JUnit5</description>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <properties>
         <java.version>1.8</java.version>
